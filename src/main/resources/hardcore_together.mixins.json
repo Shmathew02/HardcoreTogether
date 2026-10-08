@@ -1,0 +1,26 @@
+{
+	"required": true,
+	"package": "net.hardcoretogether.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"DifficultyCommandMixin",
+		"DistanceManagerAccessor",
+		"MinecraftServerAccessor",
+		"MinecraftServerMixin",
+		"PlayerMixin",
+		"PrepareSpawnTaskMixin",
+		"RedstoneLampBlockMixin",
+		"ServerChunkCacheAccessor",
+		"ServerChunkCacheMixin",
+		"ServerGamePacketListenerImplAccessor",
+		"ServerPlayerMixin",
+		"TicketStorageAccessor",
+		"WorldDimensionsMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

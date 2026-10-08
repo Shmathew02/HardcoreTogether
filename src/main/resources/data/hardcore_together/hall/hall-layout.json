@@ -1,0 +1,390 @@
+{
+  "format": 1,
+  "origin": "offsets from the hall spawn floor block (0, 64, 0)",
+  "next_id": 12,
+  "anchors": [
+    {
+      "id": 8,
+      "type": "leaderboard_text",
+      "label": "",
+      "dx": 13,
+      "dy": 1,
+      "dz": 0,
+      "facing": "east"
+    },
+    {
+      "id": 9,
+      "type": "recent_runs_text",
+      "label": "",
+      "dx": 3,
+      "dy": 2,
+      "dz": -5,
+      "facing": "south"
+    },
+    {
+      "id": 10,
+      "type": "causes_text",
+      "label": "",
+      "dx": 3,
+      "dy": 2,
+      "dz": 5,
+      "facing": "north"
+    },
+    {
+      "id": 11,
+      "type": "run_start",
+      "label": "",
+      "dx": -7,
+      "dy": 0,
+      "dz": 0,
+      "facing": "east"
+    }
+  ],
+  "spawn": {
+    "dx": 18.14377512282318,
+    "dy": 1.0,
+    "dz": 0.423012062160148,
+    "yaw": 90.261406,
+    "pitch": -4.200017
+  },
+  "statues": [
+    {
+      "number": 1,
+      "dx": 18.5,
+      "dy": 1.0,
+      "dz": -15.5,
+      "facing": "south"
+    },
+    {
+      "number": 2,
+      "dx": 22.5,
+      "dy": 1.0,
+      "dz": -15.5,
+      "facing": "west"
+    },
+    {
+      "number": 3,
+      "dx": 14.5,
+      "dy": 1.0,
+      "dz": -15.5,
+      "facing": "east"
+    },
+    {
+      "number": 4,
+      "dx": 14.5,
+      "dy": 1.0,
+      "dz": -19.5,
+      "facing": "south"
+    },
+    {
+      "number": 5,
+      "dx": 18.5,
+      "dy": 1.0,
+      "dz": -19.5,
+      "facing": "south"
+    },
+    {
+      "number": 6,
+      "dx": 22.5,
+      "dy": 1.0,
+      "dz": -19.5,
+      "facing": "south"
+    },
+    {
+      "number": 7,
+      "dx": 22.5,
+      "dy": 1.0,
+      "dz": -23.5,
+      "facing": "south"
+    },
+    {
+      "number": 8,
+      "dx": 18.5,
+      "dy": 1.0,
+      "dz": -23.5,
+      "facing": "south"
+    },
+    {
+      "number": 9,
+      "dx": 14.5,
+      "dy": 1.0,
+      "dz": -23.5,
+      "facing": "south"
+    },
+    {
+      "number": 10,
+      "dx": 14.5,
+      "dy": 1.0,
+      "dz": -27.5,
+      "facing": "south"
+    },
+    {
+      "number": 11,
+      "dx": 18.5,
+      "dy": 1.0,
+      "dz": -27.5,
+      "facing": "south"
+    },
+    {
+      "number": 12,
+      "dx": 22.5,
+      "dy": 1.0,
+      "dz": -27.5,
+      "facing": "south"
+    },
+    {
+      "number": 13,
+      "dx": 34.5,
+      "dy": 1.0,
+      "dz": 0.5,
+      "facing": "west"
+    },
+    {
+      "number": 14,
+      "dx": 34.5,
+      "dy": 1.0,
+      "dz": 4.5,
+      "facing": "north"
+    },
+    {
+      "number": 15,
+      "dx": 34.5,
+      "dy": 1.0,
+      "dz": -3.5,
+      "facing": "south"
+    },
+    {
+      "number": 16,
+      "dx": 38.5,
+      "dy": 1.0,
+      "dz": -3.5,
+      "facing": "west"
+    },
+    {
+      "number": 17,
+      "dx": 38.5,
+      "dy": 1.0,
+      "dz": 0.5,
+      "facing": "west"
+    },
+    {
+      "number": 18,
+      "dx": 38.5,
+      "dy": 1.0,
+      "dz": 4.5,
+      "facing": "west"
+    },
+    {
+      "number": 19,
+      "dx": 42.5,
+      "dy": 1.0,
+      "dz": 4.5,
+      "facing": "west"
+    },
+    {
+      "number": 20,
+      "dx": 42.5,
+      "dy": 1.0,
+      "dz": 0.5,
+      "facing": "west"
+    },
+    {
+      "number": 21,
+      "dx": 42.5,
+      "dy": 1.0,
+      "dz": -3.5,
+      "facing": "west"
+    },
+    {
+      "number": 22,
+      "dx": 46.5,
+      "dy": 1.0,
+      "dz": -3.5,
+      "facing": "west"
+    },
+    {
+      "number": 23,
+      "dx": 46.5,
+      "dy": 1.0,
+      "dz": 0.5,
+      "facing": "west"
+    },
+    {
+      "number": 24,
+      "dx": 46.5,
+      "dy": 1.0,
+      "dz": 4.5,
+      "facing": "west"
+    },
+    {
+      "number": 25,
+      "dx": 18.5,
+      "dy": 1.0,
+      "dz": 16.5,
+      "facing": "north"
+    },
+    {
+      "number": 26,
+      "dx": 14.5,
+      "dy": 1.0,
+      "dz": 16.5,
+      "facing": "east"
+    },
+    {
+      "number": 27,
+      "dx": 22.5,
+      "dy": 1.0,
+      "dz": 16.5,
+      "facing": "west"
+    },
+    {
+      "number": 28,
+      "dx": 22.5,
+      "dy": 1.0,
+      "dz": 20.5,
+      "facing": "north"
+    },
+    {
+      "number": 29,
+      "dx": 18.5,
+      "dy": 1.0,
+      "dz": 20.5,
+      "facing": "north"
+    },
+    {
+      "number": 30,
+      "dx": 14.5,
+      "dy": 1.0,
+      "dz": 20.5,
+      "facing": "north"
+    },
+    {
+      "number": 31,
+      "dx": 14.5,
+      "dy": 1.0,
+      "dz": 24.5,
+      "facing": "north"
+    },
+    {
+      "number": 32,
+      "dx": 18.5,
+      "dy": 1.0,
+      "dz": 24.5,
+      "facing": "north"
+    },
+    {
+      "number": 33,
+      "dx": 22.5,
+      "dy": 1.0,
+      "dz": 24.5,
+      "facing": "north"
+    },
+    {
+      "number": 34,
+      "dx": 22.5,
+      "dy": 1.0,
+      "dz": 28.5,
+      "facing": "north"
+    },
+    {
+      "number": 35,
+      "dx": 18.5,
+      "dy": 1.0,
+      "dz": 28.5,
+      "facing": "north"
+    },
+    {
+      "number": 36,
+      "dx": 14.5,
+      "dy": 1.0,
+      "dz": 28.5,
+      "facing": "north"
+    }
+  ],
+  "statue_assignments": [],
+  "arrows": {
+    "boxes": [
+      {
+        "arrow": 1,
+        "pos1": [
+          13,
+          0,
+          -2
+        ],
+        "pos2": [
+          9,
+          1,
+          2
+        ]
+      },
+      {
+        "arrow": 2,
+        "pos1": [
+          7,
+          0,
+          2
+        ],
+        "pos2": [
+          3,
+          1,
+          -2
+        ]
+      },
+      {
+        "arrow": 3,
+        "pos1": [
+          1,
+          0,
+          -2
+        ],
+        "pos2": [
+          -3,
+          1,
+          2
+        ]
+      }
+    ],
+    "target": [
+      -8,
+      0,
+      0
+    ],
+    "mode": "wave"
+  },
+  "boards": {
+    "causes": {
+      "scale": 4.69,
+      "height": 4.82,
+      "forward": -0.45,
+      "side": -0.5,
+      "face_width": 8.0,
+      "face_bottom": 0.0
+    },
+    "deaths": {
+      "scale": 1.79,
+      "height": 2.89,
+      "forward": 0.0,
+      "side": 0.0
+    },
+    "runs": {
+      "scale": 1.84,
+      "height": 3.71,
+      "forward": -0.45,
+      "side": 0.5,
+      "face_width": 8.0,
+      "face_bottom": 0.0
+    }
+  },
+  "portal": {
+    "pos1": [
+      -5,
+      1,
+      -2
+    ],
+    "pos2": [
+      -9,
+      0,
+      2
+    ]
+  }
+}

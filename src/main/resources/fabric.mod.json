@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "hardcore_together",
+	"version": "${version}",
+	"name": "Hardcore Together",
+	"description": "Hardcore for groups: when anyone dies, the world resets for everyone, and every death is remembered in the Death Hall.",
+	"authors": [
+		"Shmathew"
+	],
+	"license": "MIT",
+	"icon": "assets/hardcore_together/icon.png",
+	"contact": {
+		"homepage": "https://github.com/Shmathew02/HardcoreTogether",
+		"sources": "https://github.com/Shmathew02/HardcoreTogether",
+		"issues": "https://github.com/Shmathew02/HardcoreTogether/issues"
+	},
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.hardcoretogether.HardcoreTogether"
+		]
+	},
+	"mixins": [
+		"hardcore_together.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": ">=0.161.0"
+	}
+}
