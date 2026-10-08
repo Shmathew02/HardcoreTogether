@@ -8,4 +8,7 @@ Hardcore for groups: when anyone dies, the world resets for everyone, and every 
 
 Full documentation is coming soon. Download on CurseForge (link coming soon). Report bugs in [Issues](https://github.com/Shmathew02/HardcoreTogether/issues).
 
+## AI disclosure
+All of the code in Hardcore Together was written by AI, under my direction, and tested by me. All of the art (the logo, banner and page images) is my own work, and the Death Hall was built by hand in-game.
+
 License: MIT (c) 2026 Shmathew.
